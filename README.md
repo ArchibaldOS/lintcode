@@ -1,2 +1,2 @@
 # lintcode
-some solution of lintcode
+some solutions of lintcode
